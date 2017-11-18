@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="info.miki.znacenjePrezimena"
+    android:versionCode="5"
+    android:versionName="2" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="27" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat" >
+        <activity android:name="info.miki.znacenjePrezimena.ui.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="info.miki.znacenjePrezimena.ui.DetailActivity"
+            android:label="@string/detail_section"
+            android:parentActivityName="info.miki.znacenjePrezimena.ui.MainActivity" />
+        <activity
+            android:name="info.miki.znacenjePrezimena.ui.ContactActivity"
+            android:label="@string/contact_section"
+            android:parentActivityName="info.miki.znacenjePrezimena.ui.MainActivity" />
+        <activity
+            android:name="info.miki.znacenjePrezimena.ui.AboutActivity"
+            android:label="@string/about_section"
+            android:parentActivityName="info.miki.znacenjePrezimena.ui.MainActivity" />
+        <activity
+            android:name="info.miki.znacenjePrezimena.ui.VideoActivity"
+            android:label="@string/video_section"
+            android:parentActivityName="info.miki.znacenjePrezimena.ui.MainActivity" />
+
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

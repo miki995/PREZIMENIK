@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:background="#000000"
+    android:orientation="vertical"
+    tools:context="info.miki.znacenjePrezimena.ui.VideoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="1. PORTRET KNJIŽEVNIKA"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="open1"
+            android:src="@drawable/youtube_image" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="2. NESKRIVENO"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="open2"
+            android:src="@drawable/youtube_image" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="3. NEKAD BILO"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="open3"
+            android:src="@drawable/youtube_image" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="4. UZ ŠANK"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="open4"
+            android:src="@drawable/youtube_image" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="5. ISTRAIVAČKI SKUP: ZAGORSKA SRBIJA (ILI ZAGORJE)"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="open5"
+            android:src="@drawable/youtube_image" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="6. POGIBIJA BOŠKA ŽUGIĆA"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="open6"
+            android:src="@drawable/youtube_image" />
+    </LinearLayout>
+</ScrollView>

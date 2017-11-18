@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\985aa742bdcd61bb224034e4576fe013\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\2faf731d16b9117f6b94f9c3f1a5ea1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\74db00880306196a46808d656b90af82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] C:\Users\S\.gradle\caches\transforms-1\files-1.1\google-material-typeface-3.0.1.2.original.aar\316822c2ab9dbb4c88fbc77de9b5c531\AndroidManifest.xml:17:1-29:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e8d02698962314d1fc980c275883dc1b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:materialdrawer:6.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\materialdrawer-6.0.2.aar\c2fa12f9fdf3e2d0c14c070f9d99b0d4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\8181432a8ff5a48c6e73b002ab0fa655\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22d4956b7328419934f948faf3db3e41\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\5d3c7f6ad86f413d2162350540002479\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\b8f1037ce2f64caa58c8f790e4d3a8d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\b87e6478424774731b96f18a36060f80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\ed4697aa4e0b13ccf6a497f8f2f537f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\4dd216610f116b936abba0b97d8567df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\e7802f4b8f5f26cd80abdb8fd499c4ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\b2f957f5a193eb33105c28cd7367a6b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\27f28764faac8abb22c578eed97ddc59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikepenz:materialize:1.1.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\materialize-1.1.2.aar\42b751b04626bd288b0e7947b76421b4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:iconics-core:3.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.0.aar\a598cf155bf080db6efd9f4203cbbd07\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter:3.0.4] C:\Users\S\.gradle\caches\transforms-1\files-1.1\fastadapter-3.0.4.aar\778bb34b886a0753b630fa1586725920\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.0.3] C:\Users\S\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-expandable-3.0.3.aar\674f5797d57fd186c9aa1164e0475737\AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acef432f6ce67d6f76b04cbfe25b13b2\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:5:5-34:19
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] C:\Users\S\.gradle\caches\transforms-1\files-1.1\google-material-typeface-3.0.1.2.original.aar\316822c2ab9dbb4c88fbc77de9b5c531\AndroidManifest.xml:27:5-20
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] C:\Users\S\.gradle\caches\transforms-1\files-1.1\google-material-typeface-3.0.1.2.original.aar\316822c2ab9dbb4c88fbc77de9b5c531\AndroidManifest.xml:27:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e8d02698962314d1fc980c275883dc1b\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e8d02698962314d1fc980c275883dc1b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22d4956b7328419934f948faf3db3e41\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22d4956b7328419934f948faf3db3e41\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acef432f6ce67d6f76b04cbfe25b13b2\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acef432f6ce67d6f76b04cbfe25b13b2\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:10:9-47
+activity#info.miki.znacenjePrezimena.ui.MainActivity
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:11:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:15:27-74
+activity#info.miki.znacenjePrezimena.ui.DetailActivity
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:18:9-21:61
+	android:parentActivityName
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:21:13-58
+	android:label
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:20:13-51
+	android:name
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:19:13-46
+activity#info.miki.znacenjePrezimena.ui.ContactActivity
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:22:9-25:61
+	android:parentActivityName
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:25:13-58
+	android:label
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:23:13-47
+activity#info.miki.znacenjePrezimena.ui.AboutActivity
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:26:9-29:61
+	android:parentActivityName
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:29:13-58
+	android:label
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:28:13-50
+	android:name
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:27:13-45
+activity#info.miki.znacenjePrezimena.ui.VideoActivity
+ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:30:9-33:61
+	android:parentActivityName
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:33:13-58
+	android:label
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:32:13-50
+	android:name
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml:31:13-45
+uses-sdk
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\985aa742bdcd61bb224034e4576fe013\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\985aa742bdcd61bb224034e4576fe013\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\2faf731d16b9117f6b94f9c3f1a5ea1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\2faf731d16b9117f6b94f9c3f1a5ea1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\74db00880306196a46808d656b90af82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\74db00880306196a46808d656b90af82\AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] C:\Users\S\.gradle\caches\transforms-1\files-1.1\google-material-typeface-3.0.1.2.original.aar\316822c2ab9dbb4c88fbc77de9b5c531\AndroidManifest.xml:23:5-25:41
+MERGED from [com.mikepenz:google-material-typeface:3.0.1.2.original] C:\Users\S\.gradle\caches\transforms-1\files-1.1\google-material-typeface-3.0.1.2.original.aar\316822c2ab9dbb4c88fbc77de9b5c531\AndroidManifest.xml:23:5-25:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e8d02698962314d1fc980c275883dc1b\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e8d02698962314d1fc980c275883dc1b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:materialdrawer:6.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\materialdrawer-6.0.2.aar\c2fa12f9fdf3e2d0c14c070f9d99b0d4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:6.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\materialdrawer-6.0.2.aar\c2fa12f9fdf3e2d0c14c070f9d99b0d4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\8181432a8ff5a48c6e73b002ab0fa655\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\8181432a8ff5a48c6e73b002ab0fa655\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22d4956b7328419934f948faf3db3e41\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22d4956b7328419934f948faf3db3e41\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\5d3c7f6ad86f413d2162350540002479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\5d3c7f6ad86f413d2162350540002479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\b8f1037ce2f64caa58c8f790e4d3a8d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\b8f1037ce2f64caa58c8f790e4d3a8d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\b87e6478424774731b96f18a36060f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\b87e6478424774731b96f18a36060f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\ed4697aa4e0b13ccf6a497f8f2f537f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\ed4697aa4e0b13ccf6a497f8f2f537f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\4dd216610f116b936abba0b97d8567df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\4dd216610f116b936abba0b97d8567df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\e7802f4b8f5f26cd80abdb8fd499c4ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\e7802f4b8f5f26cd80abdb8fd499c4ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\b2f957f5a193eb33105c28cd7367a6b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\b2f957f5a193eb33105c28cd7367a6b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\27f28764faac8abb22c578eed97ddc59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\27f28764faac8abb22c578eed97ddc59\AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:materialize:1.1.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\materialize-1.1.2.aar\42b751b04626bd288b0e7947b76421b4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.1.2] C:\Users\S\.gradle\caches\transforms-1\files-1.1\materialize-1.1.2.aar\42b751b04626bd288b0e7947b76421b4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:3.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.0.aar\a598cf155bf080db6efd9f4203cbbd07\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:3.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.0.aar\a598cf155bf080db6efd9f4203cbbd07\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.0.4] C:\Users\S\.gradle\caches\transforms-1\files-1.1\fastadapter-3.0.4.aar\778bb34b886a0753b630fa1586725920\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.0.4] C:\Users\S\.gradle\caches\transforms-1\files-1.1\fastadapter-3.0.4.aar\778bb34b886a0753b630fa1586725920\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.0.3] C:\Users\S\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-expandable-3.0.3.aar\674f5797d57fd186c9aa1164e0475737\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.0.3] C:\Users\S\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-expandable-3.0.3.aar\674f5797d57fd186c9aa1164e0475737\AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acef432f6ce67d6f76b04cbfe25b13b2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acef432f6ce67d6f76b04cbfe25b13b2\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\src\main\AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acef432f6ce67d6f76b04cbfe25b13b2\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acef432f6ce67d6f76b04cbfe25b13b2\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\S\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acef432f6ce67d6f76b04cbfe25b13b2\AndroidManifest.xml:26:13-58

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\2faf731d16b9117f6b94f9c3f1a5ea1c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="cbbd26dd2f6d46181b41a5f6f5e34889442a811b">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22d4956b7328419934f948faf3db3e41\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\b87e6478424774731b96f18a36060f80\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d4f9ace23785adf79a174d569bde261f032e1190">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\4dd216610f116b936abba0b97d8567df\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f10fed27d6d0b4aae675f17b33c639b4d5a0ed93">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\985aa742bdcd61bb224034e4576fe013\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f25b1adab1e4b4f5cecb9dc6f19798afabcb177b">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\8181432a8ff5a48c6e73b002ab0fa655\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="59cbbfb2937ebed98c8bb8882b7112d16358014e">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-expandable-3.0.3.aar\674f5797d57fd186c9aa1164e0475737\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6868adee948ef8db38b8f79ab5ad36451726b02f">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\fastadapter-3.0.4.aar\778bb34b886a0753b630fa1586725920\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7ff34b3b40fd88f1cb76a76859ab1e2506c66346">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\b8f1037ce2f64caa58c8f790e4d3a8d9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ac5e6ae168ef77f0b0b1e3245d7afd7d32f710c3">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\5d3c7f6ad86f413d2162350540002479\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f8a80c9882b064f2943e10649a8d2b249f5bf176">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\materialdrawer-6.0.2.aar\c2fa12f9fdf3e2d0c14c070f9d99b0d4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5f9f56b7ba36b0a2528bc5877a6c1d903d30c4e3">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\27f28764faac8abb22c578eed97ddc59\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\e7802f4b8f5f26cd80abdb8fd499c4ad\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="69f7591c9ff9238ff226e264c0260bb9f1ce0029">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\google-material-typeface-3.0.1.2.original.aar\316822c2ab9dbb4c88fbc77de9b5c531\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="816492f96aedb095f5893396244b2acb33e81f6c">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acef432f6ce67d6f76b04cbfe25b13b2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\74db00880306196a46808d656b90af82\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6db956f55089a8d067d7cab3f65aa2aba8b6396d">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e8d02698962314d1fc980c275883dc1b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\b2f957f5a193eb33105c28cd7367a6b4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="dc703c35f594398c269b79b0178c86744add9494">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\materialize-1.1.2.aar\42b751b04626bd288b0e7947b76421b4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="926bbb77be73e338d9f1a34ca58e2b8a7ef17e03">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\ed4697aa4e0b13ccf6a497f8f2f537f8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d928394035bd4f7d2ee9e1c63d45f9ec088e21a4">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.1\287742f1c6cea6d9126670e9f031890b0462362a\support-annotations-27.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="287742f1c6cea6d9126670e9f031890b0462362a">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\S\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.0.aar\a598cf155bf080db6efd9f4203cbbd07\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c3dc7be2cbc4d33e9db67fe379bdc921664e38a5">
+        <dex dex="C:\Users\S\AndroidStudioProjects\Vuk aplikacija\PREZIMENIK\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Sat Nov 18 21:37:27 CET 2017
+base.0=C\:\\Users\\S\\AndroidStudioProjects\\Vuk aplikacija\\PREZIMENIK\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\S\\AndroidStudioProjects\\Vuk aplikacija\\PREZIMENIK\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
